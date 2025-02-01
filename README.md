@@ -1,6 +1,7 @@
-# **EE-322-Design-IV**
-## Spring 2025
-### About Me
+# **EE-322-Design-VI**
+### Spring 2025
+---
+## About Me
 - Electrical Engineer
   - *Embedded Systems Concentration* 
 - Team Captain of Stevens Splatoon Esports Team
@@ -10,7 +11,7 @@
   ![Stevens Esports](Stevensesports.jpg)
 
 
-Likes
+### Likes
 - Nintendo videogames
 - Summers on the beach
 - Poke bowls
@@ -22,7 +23,7 @@ Likes
 
 
 
-### [Labs](https://sit.instructure.com/courses/77142/assignments/557717)
+## [Labs](https://sit.instructure.com/courses/77142/assignments/557717)
 1. GHDL and GTKWave
 2. Command Line
 3. Python
@@ -34,3 +35,8 @@ Likes
 9. YANG
 10. Blockchain
 
+
+> "You are the master of your destiny: No one and nothing can come in between you and your destiny except you.”
+> — Master Oogway
+
+`git status`
