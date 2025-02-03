@@ -1,5 +1,7 @@
-# **EE-322-Design-VI**
+# **EE-322-Design-VI** 
 ### Spring 2025
+**[Team Site](https://begonia-prism-5lls.squarespace.com/config/)**
+
 ---
 ## About Me
 - Electrical Engineer
@@ -8,7 +10,7 @@
 
 
 
-  ![Stevens Esports](Stevensesports.jpg)
+![Stevens Esports](Stevensesports.jpg)
 
 
 ### Likes
@@ -22,7 +24,7 @@
 
 
 
-
+---
 ## [Labs](https://sit.instructure.com/courses/77142/assignments/557717)
 1. GHDL and GTKWave
 2. Command Line
