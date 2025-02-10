@@ -1,6 +1,6 @@
 # **EE-322-Design-VI** 
 ### Spring 2025
-**[Team Site](https://begonia-prism-5lls.squarespace.com/config/)**
+**[Team Site](https://sites.google.com/stevens.edu/cpe322-tps/home)**
 
 ---
 ## About Me
