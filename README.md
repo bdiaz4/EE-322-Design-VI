@@ -26,7 +26,7 @@
 
 ---
 ## [Labs](https://sit.instructure.com/courses/77142/assignments/557717)
-1. GHDL and GTKWave
+1. [GHDL and GTKWave](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%201.md)
 2. Command Line
 3. Python
 4. Django and Flask
