@@ -42,4 +42,30 @@ Creates a new file in iot called demo `cd demo` moves current directory to the n
 ![image](https://github.com/user-attachments/assets/e1cc6b3c-109b-4538-81bd-5ac723eac91c)\
 Creates a new nano file in our current directory iot/demo
 ## cat file
-![image](https://github.com/user-attachments/assets/31592956-c228-4a04-88fc-cbafc896e768)
+![image](https://github.com/user-attachments/assets/3f03e6e3-5bf8-4f13-8e75-463439785edb)\
+After saving the nano file and exiting back to the command prompt, `cat file` prints out the contents of file which I saved test
+## cp file file1
+![image](https://github.com/user-attachments/assets/b5da47d6-de5e-4417-a916-e5594e91655c)\
+This command copys the first argument giving it the name of the second argument. In this case our nano file was copyed to make file1. Using the cat command again on our new file `cat file1` results in the same contents.
+## mv file file2
+![image](https://github.com/user-attachments/assets/fdbb1378-3da2-4eb2-9bbe-d51f4d4a1bee)\
+This command moves the first argument to a new file named the second argument. mv acts as a cut/paste while mov acts as a copy/paste. This is illustrated by trying to read the contents of file and file2 where file no longer exists.  
+## rm file2
+![image](https://github.com/user-attachments/assets/fcdb47a7-5ef4-44d9-ba88-b2f77cd2b2f9)\
+This command removes the file in the argument. When trying to access the contents of file2 now, it can no longer be found.
+## clear
+![image](https://github.com/user-attachments/assets/cd674227-41c1-4127-8986-9313cb7cdf00)\
+This command clears the history and outputs in the command prompt.
+## man uname
+This command isn't usable on Windows systems. It is similar to the `help` command in this case it would give information on uname.
+## uname -a
+![image](https://github.com/user-attachments/assets/d58c8df6-940f-4c82-9f78-779ba9e2db3d)\
+This command prints information about the operating system of the device including the hostname, version, release date, and processor type.
+## ifconfig
+This command isn't usable on Windows systems. When no arguments are given, this command would display the status of active interfaces.
+## ping localhost
+![image](https://github.com/user-attachments/assets/077b77eb-2d31-449c-accf-00cc948a88cb)\
+This command tests the network connection of local host by sending 4 packets and measuring the time until they are received. Statistics on loss percent, response minimum, maximum, and average are also printed.
+## netstat
+![image](https://github.com/user-attachments/assets/1a1721c5-0640-46d5-8031-8272cab4f652)\
+This command prints information about the devices current network connections including, the protocol type, addresses, and current state.
