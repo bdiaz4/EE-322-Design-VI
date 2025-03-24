@@ -31,7 +31,7 @@
 3. [Python](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%203.md)
 4. Django and Flask
 5. Paho-MQTT
-6. Node.js and Pystache
+6. [Node.js and Pystache](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%206.md)
 7. ThingSpeak and Google Sheets
 8. Data Analysis
 9. YANG
