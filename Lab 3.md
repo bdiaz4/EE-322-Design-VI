@@ -27,8 +27,13 @@ This script required a download of the package geopy. The script itself prints i
 ![image](https://github.com/user-attachments/assets/d6a2c061-4bb6-4bd1-9733-79930fcaf2ff)\
 This script is similar to coordinates.py except it gives the address given the coordinates instead of the coordinates given the address.
 ## python3 cpu.py
-
+![image](https://github.com/user-attachments/assets/dfa7aa51-06d5-47b3-b9f4-1a8bbba2613a)\
+This script shows the percent usage of each core and thread of the cpu in use.
 ## python3 battery.py
+![image](https://github.com/user-attachments/assets/3355a537-0893-41a1-a8e5-864bc5c0608d)\
+Prints the current percent battery of my laptop as well as seconds left until dead and if the power cable is plugged in or not.
 ## python3 documentstats.py document.txt
+![image](https://github.com/user-attachments/assets/a81882ed-ab32-4c32-9e16-24972287084f)\
+Outputs the word count and amount of the top 10 most frequency words in a given txt file.
 
 
