@@ -17,5 +17,3 @@ When going back to the previous server, the page outputs how many times the page
 ## say_hello.py
 After installing pystache running the prompt `python3 say_hello.py` gives the output below.
 ![image](https://github.com/user-attachments/assets/c7de36db-65c6-4c5d-b61e-1ffff8c476e3)
-
-## say_hello.mustache
