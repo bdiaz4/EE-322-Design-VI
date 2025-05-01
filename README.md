@@ -32,7 +32,7 @@
 4. [Django and Flask](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%204.md)
 5. [Paho-MQTT](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%205.md)
 6. [Node.js and Pystache](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%206.md)
-7. ThingSpeak and Google Sheets
+7. [ThingSpeak and Google Sheets](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%207.md)
 8. Data Analysis
 9. YANG
 10. Blockchain
