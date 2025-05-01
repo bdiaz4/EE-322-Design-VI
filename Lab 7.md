@@ -14,4 +14,5 @@ First, gspread oauth2client were installed.
 A service acount for rpidata was created using google cloud services. The keys were then managed to make a JSON key and its file was downloaded. Cpu_spreadsheet.py was edited to add my JSON key after it was moved into its file directory. Finally a spreadsheet was made and shared with the service account.
 ![image](https://github.com/user-attachments/assets/e8863e79-8ba0-4797-a0a2-5fc161abd688)\
 Running cpu_spreadsheet.py after these changes resulted in cpu data being collected and written to the googlesheet using the service account.
+![image](https://github.com/user-attachments/assets/b3ac9981-fd60-4a1b-b22f-5425df7d9a05)
 ![image](https://github.com/user-attachments/assets/06427ec5-04dd-4fa6-ba22-a45fdb9d8d27)
