@@ -15,4 +15,8 @@ The following graphs were outputed running `plt_final.py`
 ![image](https://github.com/user-attachments/assets/ff2772e4-13df-4080-8762-44e154fc4c05)
 ![image](https://github.com/user-attachments/assets/1cb0d40f-1a8d-4158-a465-9737e8e5126b)
 ![image](https://github.com/user-attachments/assets/cfcaac33-e9bb-4780-be2a-762dbba37528)
-
+For `plt_cv2.py`
+At first I got the following error
+![image](https://github.com/user-attachments/assets/aa713445-0e49-4bb1-861b-9f0abc5f31ec)\
+Therefore, the program was updated to have cv=4 instead of 10. To have more accurate results a longer data sample should be used in the future.
+![image](https://github.com/user-attachments/assets/0122dfa0-1aba-4ee9-ab59-c3a048260a9e)
