@@ -33,9 +33,9 @@
 5. [Paho-MQTT](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%205.md)
 6. [Node.js and Pystache](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%206.md)
 7. [ThingSpeak and Google Sheets](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%207.md)
-8. Data Analysis
-9. YANG
-10. Blockchain
+8. [Data Analysis](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%208.md)
+9. [YANG](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%209.md)
+10. [Blockchain](https://github.com/bdiaz4/EE-322-Design-VI/blob/main/Lab%2010.md)
 
 
 > "You are the master of your destiny: No one and nothing can come in between you and your destiny except you.”
