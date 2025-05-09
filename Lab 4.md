@@ -11,4 +11,11 @@ superuser created
 runserver
 ![image](https://github.com/user-attachments/assets/fda2e38e-894c-46eb-ab78-137799fe5289)
 ![image](https://github.com/user-attachments/assets/590a0479-13ed-4a28-aa63-6593f1716226)
+## mycpu
 
+## Flask
+The app was launched by simply running the python script
+![image](https://github.com/user-attachments/assets/9f1b902b-1159-430a-95d3-208bd1cb4f20)
+When visiting the page, you can see "hello, world" written
+![image](https://github.com/user-attachments/assets/96e91ee4-87fd-4879-abb0-ceeae4e08f1b)
+Ctrl^C terminates the page
