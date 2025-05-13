@@ -12,6 +12,13 @@ runserver
 ![image](https://github.com/user-attachments/assets/fda2e38e-894c-46eb-ab78-137799fe5289)
 ![image](https://github.com/user-attachments/assets/590a0479-13ed-4a28-aa63-6593f1716226)
 ## mycpu
+Setup project the same way
+![image](https://github.com/user-attachments/assets/170d8a3d-a26e-4fa7-94f0-fb44a33eb580)
+![image](https://github.com/user-attachments/assets/3d9def00-d8d5-44f8-9c54-c7a0317e2545)
+### admin
+![image](https://github.com/user-attachments/assets/cbf62dbf-eca4-418e-b66f-2881d8433936)
+updates made to http://127.0.0.1:8000/dt/ , cpu and mem
+![image](https://github.com/user-attachments/assets/2d05df7c-b5ea-4d06-b7a4-cb9ae27fdefa)
 
 ## Flask
 The app was launched by simply running the python script
